@@ -1,13 +1,14 @@
 <div align="center">
 
-# Hi, I'm Alife Gong 👋
+# Alife Gong
 
 ### Android Developer · AI Explorer · Chengdu GDG Organizer
 
-*Alife = AI + Life — building intelligent experiences for everyday life.*
+*Building intelligent experiences for everyday life.*
 
 [![Followers](https://img.shields.io/github/followers/android24?label=Followers&style=flat)](https://github.com/android24?tab=followers)
 [![Stars](https://img.shields.io/github/stars/android24?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=flat)](https://github.com/android24?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-android24-181717?logo=github)](https://github.com/android24)
 
 </div>
 
@@ -21,16 +22,40 @@ I'm **Alife Gong**, also known as **Afu**, an Android developer with around **10
 - 🎓 Bachelor's degree, **Beijing Institute of Technology, Zhuhai** · Master's degree, **Illinois Institute of Technology**
 - 💬 Always happy to talk about Android, developer education, communities, and practical AI applications
 
+## Current focus
+
+<p>
+  <img src="https://img.shields.io/badge/Modern_Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Modern Android" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/AI_%C3%97_Mobile-111827?style=flat&logo=openai&logoColor=white" alt="AI and Mobile" />
+  <img src="https://img.shields.io/badge/Developer_Education-0969DA?style=flat&logo=googleclassroom&logoColor=white" alt="Developer Education" />
+</p>
+
+I am focused on three connected areas: building modern Android applications, making AI useful on mobile, and helping developers grow through practical, project-based learning.
+
+## Name & identity
+
+**Alife Gong** is my public-facing professional identity. The name is inspired by **Afu** (阿福), my Chinese nickname. In Chinese, *Fu* (福) represents good fortune and blessing.
+
+**Alife** also combines **AI + Life**: my commitment to using mobile technology and artificial intelligence to create more intelligent, useful, and human-centered everyday experiences.
+
+> Alife 取自 AI + Life：希望用移动技术与人工智能，为真实日常生活创造更智能、更有温度的体验。
+
 ## What I'm building
 
-I am creating a practical learning path for Android developers, from first principles to cross-platform engineering and framework internals:
+I am creating a practical learning path for Android developers, from first principles to cross-platform engineering and framework internals.
 
-1. [**Hello Android**](https://github.com/android24/hello-android) — a practical, full-stack introduction to Android development.
-2. [**Cross-Platform Technologies and Principles**](https://github.com/android24/Android-Cross-Platform-Lab) — the foundations, trade-offs, and architecture of modern cross-platform development.
-3. [**Android Cross-Platform Engineering**](https://github.com/android24/Android-Cross-Platform-Lab) — hands-on work with Hybrid, React Native, Flutter, and Kotlin Multiplatform.
-4. [**Open-Source Frameworks for Android**](https://github.com/android24/DroidStack) — how popular Android frameworks work, evolve, and fit into real projects.
+The curriculum moves from Android fundamentals to cross-platform engineering and the internals of open-source frameworks. I am also exploring AI applications through projects such as [**ResponsiveGPT**](https://github.com/android24/ResponsiveGPT) and [**RAGCostReducer**](https://github.com/android24/RAGCostReducer).
 
-I am also exploring AI applications through projects such as [**ResponsiveGPT**](https://github.com/android24/ResponsiveGPT) and [**RAGCostReducer**](https://github.com/android24/RAGCostReducer).
+### Learning roadmap
+
+| Stage | Course | Outcome |
+| --- | --- | --- |
+| 01 | [Hello Android](https://github.com/android24/hello-android) | Build a complete Android application from the ground up. |
+| 02 | [Cross-Platform Technologies and Principles](https://github.com/android24/Android-Cross-Platform-Lab) | Understand the trade-offs behind cross-platform development. |
+| 03 | [Android Cross-Platform Engineering](https://github.com/android24/Android-Cross-Platform-Lab) | Apply Hybrid, React Native, Flutter, and Kotlin Multiplatform in practice. |
+| 04 | [Open-Source Frameworks for Android](https://github.com/android24/DroidStack) | Make informed framework choices and work effectively with their internals. |
 
 ## Featured projects
 
@@ -55,6 +80,10 @@ I am also exploring AI applications through projects such as [**ResponsiveGPT**]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
 </p>
+
+## Community & teaching
+
+As an organizer at **Chengdu Google Developer Group (GDG)**, I enjoy connecting developers, sharing practical knowledge, and creating learning resources that help people move from concepts to real applications.
 
 ## GitHub activity
 
