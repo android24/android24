@@ -14,7 +14,7 @@
 
 ## About me
 
-I'm **Alife Gong**, also known as **Afu**, an Android developer with around **10 years of professional software-development experience**. I focus on creating reliable, thoughtful mobile experiences with modern Android technologies.
+I'm **Felix Gong**, also known as **Afu**, an Android developer with around **10 years of professional software-development experience**. I focus on creating reliable, thoughtful mobile experiences with modern Android technologies.
 
 - 📱 Core stack: **Android · Jetpack Compose · Kotlin**
 - 🤖 Exploring how **AI + mobile** can make everyday experiences more intelligent and useful
