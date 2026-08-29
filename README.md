@@ -1,6 +1,6 @@
 <div align="center">
 
-# Alife Gong
+# Felix Gong
 
 ### Android Developer · AI Explorer · Chengdu GDG Organizer
 
